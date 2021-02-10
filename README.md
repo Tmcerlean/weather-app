@@ -12,7 +12,7 @@ A simple application to provide weather forecasts for locations, with data impor
 - CSS3
 
 ## Getting Started
-- Clone this project: git clone https://github.com/pret3nti0u5/To-Do-List.git
+- Clone this project: git clone https://github.com/Tmcerlean/weather-app.git
 - Install the required dependencies by using: npm install
 - A live demo of the project can be started by using: npm start
 - Distribution files can be produced using: npm run build
